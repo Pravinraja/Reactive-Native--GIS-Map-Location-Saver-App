@@ -1,0 +1,10 @@
+{
+  "name": "LocationSaver",
+  "displayName": "LocationSaver",
+  "expo": {
+    "name": "LocationSaver",
+    "slug": "LocationSaver",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"]
+  }
+}
